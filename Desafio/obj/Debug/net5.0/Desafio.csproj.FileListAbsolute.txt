@@ -1,0 +1,16 @@
+/home/mint/workspace/Desafio/bin/Debug/net5.0/Desafio
+/home/mint/workspace/Desafio/bin/Debug/net5.0/Desafio.deps.json
+/home/mint/workspace/Desafio/bin/Debug/net5.0/Desafio.runtimeconfig.json
+/home/mint/workspace/Desafio/bin/Debug/net5.0/Desafio.runtimeconfig.dev.json
+/home/mint/workspace/Desafio/bin/Debug/net5.0/Desafio.dll
+/home/mint/workspace/Desafio/bin/Debug/net5.0/ref/Desafio.dll
+/home/mint/workspace/Desafio/bin/Debug/net5.0/Desafio.pdb
+/home/mint/workspace/Desafio/obj/Debug/net5.0/Desafio.csprojAssemblyReference.cache
+/home/mint/workspace/Desafio/obj/Debug/net5.0/Desafio.GeneratedMSBuildEditorConfig.editorconfig
+/home/mint/workspace/Desafio/obj/Debug/net5.0/Desafio.AssemblyInfoInputs.cache
+/home/mint/workspace/Desafio/obj/Debug/net5.0/Desafio.AssemblyInfo.cs
+/home/mint/workspace/Desafio/obj/Debug/net5.0/Desafio.csproj.CoreCompileInputs.cache
+/home/mint/workspace/Desafio/obj/Debug/net5.0/Desafio.dll
+/home/mint/workspace/Desafio/obj/Debug/net5.0/ref/Desafio.dll
+/home/mint/workspace/Desafio/obj/Debug/net5.0/Desafio.pdb
+/home/mint/workspace/Desafio/obj/Debug/net5.0/Desafio.genruntimeconfig.cache
