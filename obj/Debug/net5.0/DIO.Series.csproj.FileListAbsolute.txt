@@ -1,0 +1,16 @@
+/home/mint/workspace/DIO.Series/obj/Debug/net5.0/DIO.Series.csprojAssemblyReference.cache
+/home/mint/workspace/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/mint/workspace/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/mint/workspace/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/mint/workspace/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/mint/workspace/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/mint/workspace/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/mint/workspace/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/mint/workspace/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/mint/workspace/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/mint/workspace/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/mint/workspace/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/mint/workspace/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/mint/workspace/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/mint/workspace/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/mint/workspace/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
